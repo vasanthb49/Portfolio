@@ -57,7 +57,6 @@ function App() {
         );
       const device = isMobile ? "Mobile" : "Desktop";
 
-      const now = new Date();
 
       const visitData = {
         Device: device,
